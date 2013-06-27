@@ -1,0 +1,16 @@
+{
+    "title":"Here is a new post!",
+    "content":"Main Entry:  rest\nPart of Speech: verb\nDefinition: be calm; sleep\nSynonyms:   be at ease, be comfortable, breathe, compose oneself, doze, dream, drowse, ease off, ease up, idle, laze, lean, let down, let up, lie by, lie down, lie still, loaf, loll, lounge, nap, nod, put feet up, recline, refresh oneself, relax, repose, sit down, slack, slack off, slacken, slumber, snooze, spell, stretch out, take a break, take a nap, take five, take it easy, take life easy, take ten, take time out, unbend, unlax, unwind, wind down\nAntonyms:    activate, be active, carry out, do, energize",
+    "owner":"Curly Curl",
+    "lastUpdate":"",
+    "comments":[ {
+        "comment":"This blog is sucks, I guess",
+        "when":"",
+        "who":" Grumpy Guy"
+        },
+        { "comment" : "This post was POSTed",
+          "when" : "",
+          "who" : "Curly Curl"
+        }
+    ]
+}
